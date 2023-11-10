@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Docker, Git**
 
-- 📫 Correo **francisco.huenchunir2022@twk.cl**
+- 📫 Correo: **francisco.huenchunir2022@twk.cl**
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
