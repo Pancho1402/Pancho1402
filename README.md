@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Francisco Huenchuñir</h1>
+<h1 align="center">Hola 👋, soy Francisco Huenchuñir</h1>
 <h3 align="center">Estudiante de Cft Teodoro Wickel Kluwen, un apasionado en el mundo de la informática y la programación</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Docker, Git**
