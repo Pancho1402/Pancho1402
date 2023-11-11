@@ -19,7 +19,6 @@
 <h3 aling="left">Framework</h3>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/F8Y7hg3/NET-Core-Logo-svg.png" alt="aspnet" width="40" height="40"/> 
 </a>
 
 <h3 align="left">movil:</h3>
