@@ -1,11 +1,10 @@
 <h1 align="center">Hola 👋, soy Francisco Huenchuñir</h1>
-<h3 align="center">Técnico en Informática, programador Junior Backend Developer./h3>
-
-- 🌱 Actualmente estoy aprendiendo **Docker, Git**
-
-- 📫 Correo: **franciscohuenchunir42@gmail.com**
+<h3 align="center">Técnico en Informática. Programador Junior Backend Developer. </h3>
+- 🌱 Actualmente estoy aprendiendo **Docker y Git**
 
 <h3 align="left">Conectate conmigo:</h3>
+- 📫 Correo: **franciscohuenchunir42@gmail.com**
+
 <p align="left">
 </p>
 
