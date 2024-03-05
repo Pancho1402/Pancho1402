@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Francisco Huenchuñir</h1>
-<h3 align="center">Técnico en Informática, un apasionado de la informática y la programación</h3>
+<h3 align="center">Técnico en Informática, programador Junior Backend Developer./h3>
 
 - 🌱 Actualmente estoy aprendiendo **Docker, Git**
 
