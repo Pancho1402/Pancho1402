@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Francisco Huenchuñir</h1>
 <h3 align="center">Técnico en Informática. Junior Backend Developer. </h3>
-- 🌱 Actualmente estoy aprendiendo **Spring Security**
+- 🌱 Actualmente estoy aprendiendo **Spring Boot and OAuth2**
 
 <h3 align="left">Conectate conmigo:</h3>
 - 📫 Correo: **franciscohuenchunir42@gmail.com**
